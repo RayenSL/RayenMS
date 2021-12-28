@@ -67,6 +67,14 @@ topics:
     web_url: https://github.com/topics/linux
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
 
+  - name: .NET Core
+    web_url: https://github.com/topics/.net
+    image_url: https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png
+
+  - name: NodeJS
+    web_url: https://github.com/topics/nodejs
+    image_url: https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png
+
   - name: React
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
